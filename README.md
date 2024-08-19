@@ -68,10 +68,3 @@ Run the `main.py` file to start the system.
 
 The system automatically saves the data to these CSV files when you exit(choose option 8).
 
-## License
-
-This project is open-source and available under the [MIT License](https://opensource.org/licenses/MIT).
-
----
-
-You can customize this README further if needed, like adding instructions for setting up a virtual environment, contributing guidelines, or more detailed usage examples.
