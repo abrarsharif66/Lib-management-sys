@@ -1,0 +1,4 @@
+title,author,isbn,copies,available
+machine learning,steve jobs,1,4,True
+deep learing,sam altman,2,1,True
+large language models,elon musk,3,10,True
